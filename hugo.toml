@@ -1,4 +1,4 @@
-baseURL = 'https://yourusername.netlify.app/'
+baseURL = 'https://soft-vacherin-3910ae.netlify.app/'
 languageCode = 'en-us'
 title = 'My Portfolio'
 theme = 'PaperMod'
