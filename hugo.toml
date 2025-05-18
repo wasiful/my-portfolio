@@ -1,0 +1,27 @@
+baseURL = 'https://yourusername.netlify.app/'
+languageCode = 'en-us'
+title = 'My Portfolio'
+theme = 'PaperMod'
+
+[params]
+  author = 'Wasiful Alam'
+  description = 'A portfolio of my work'
+  ShowReadingTime = true
+  ShowShareButtons = true
+  defaultTheme = 'light'  # or 'dark' or 'auto'
+
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  name = 'Projects'
+  url = '/projects/'
+  weight = 2
+
+[[menu.main]]
+  name = 'Contact'
+  url = '/contact/'
+  weight = 3
+
