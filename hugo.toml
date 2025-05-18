@@ -1,27 +1,61 @@
 baseURL = 'https://soft-vacherin-3910ae.netlify.app/'
 languageCode = 'en-us'
-title = 'My Portfolio'
+title = 'Wasif - Portfolio'
 theme = 'PaperMod'
 
 [params]
-  author = 'Wasiful Alam'
-  description = 'A portfolio of my work'
+  author = "Wasif"
+  description = "Portfolio of Wasif – IT Field Engineer, Data Analyst, and Researcher"
+  keywords = ["Portfolio", "Data Analysis", "Research", "IT Engineer"]
   ShowReadingTime = true
-  ShowShareButtons = true
-  defaultTheme = 'light'  # or 'dark' or 'auto'
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  defaultTheme = "auto"
+  DateFormat = "January 2, 2006"
 
-[[menu.main]]
-  name = 'Home'
-  url = '/'
-  weight = 1
+[params.profileMode]
+  enabled = true
+  title = "Wasif"
+  subtitle = "IT Engineer • Data Analyst • Researcher in Physics and Machine Learning"
+  imageUrl = "profile.jpg"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "Wasif"
 
-[[menu.main]]
-  name = 'Projects'
-  url = '/projects/'
-  weight = 2
+  [[params.profileMode.buttons]]
+    name = "About Me"
+    url = "/about/"
 
-[[menu.main]]
-  name = 'Contact'
-  url = '/contact/'
-  weight = 3
+  [[params.profileMode.buttons]]
+    name = "Projects"
+    url = "/projects/"
 
+  [[params.profileMode.buttons]]
+    name = "Publications"
+    url = "/publications/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
