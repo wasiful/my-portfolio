@@ -59,3 +59,11 @@ theme = 'PaperMod'
     name = "Contact"
     url = "/contact/"
     weight = 4
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:wasiful2016@gmail.com"
+
+[[params.socialIcons]]
+name = "phone"
+url = "tel:+420123456789
