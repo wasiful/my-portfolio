@@ -14,6 +14,18 @@ theme = 'PaperMod'
   defaultTheme = "auto"
   DateFormat = "January 2, 2006"
 
+  # Contact Info
+  email = "wasiful2016@gmail.com"
+  phone = "+420123456789"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:wasiful2016@gmail.com"
+
+  [[params.socialIcons]]
+    name = "phone"
+    url = "tel:+420123456789"
+
 [params.profileMode]
   enabled = true
   title = "Wasif"
@@ -59,11 +71,3 @@ theme = 'PaperMod'
     name = "Contact"
     url = "/contact/"
     weight = 4
-
-[[params.socialIcons]]
-name = "email"
-url = "mailto:wasiful2016@gmail.com"
-
-[[params.socialIcons]]
-name = "phone"
-url = "tel:+420123456789
