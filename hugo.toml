@@ -30,7 +30,7 @@ theme = 'PaperMod'
 [params.profileMode]
   enabled = true
   title = "Wasif"
-  subtitle = "IT Engineer • Data Analyst • Researcher in Physics and Machine Learning"
+  subtitle = "IT Infrastructure Engineer • Scientific Data Analysis • Researcher in Physics"
   imageUrl = "profile.jpg"
   imageWidth = 120
   imageHeight = 120
