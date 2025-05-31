@@ -4,7 +4,7 @@ title: "Projects"
 Worked on system management, IT Infrastructure server improvement and maintanence projects with 
 Omega , Ralph Lauren, Louis Vuitton, Mastercard, DOW Europe Gmbh, GLP and many others.
 
-According to my educational background, worked on many projects can be found in my git hub.
+Regarding my educational background, worked on many projects can be found in my git hub.
 Here are some featured projects and research contributions and many more projects are ongoing:
 
 - [Final Value approximation method](https://final-value-approximation.blogspot.com/)
