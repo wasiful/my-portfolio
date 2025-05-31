@@ -16,7 +16,7 @@ Lots of my innovative contributions are publicly available. Links in the Publica
 
 ### Education
 - Diploma in Nuclear Science and Particle Physics, CTU FJFI
-- Diploma in Machine Learning For Data Science, TalTECH
+- Diploma in Machine Learning For Data Science, TalTech
 - Diploma in Plasma and Fusion Reaction, EPFL
 - Diploma in IT, CTU FIT
 - Diploma in Web Development, BITM
