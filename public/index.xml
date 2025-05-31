@@ -12,18 +12,20 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Working as IT Field Engineer with many years of experience across international environments, providing service to many different companies. Personally interested in IT, Data analysis, physics simulation. Mostly focused on research &amp;amp; development. Always willing to implement something new and prepared for solving any type of problem.&lt;/p&gt;
-&lt;p&gt;I specialize in server system management, software and hardware integration and maintanence, data analysis and scientific report writing. My experties come from hands on experience with electronics from hours of experimental lab work. Done maintanence for entire IT infrastructure of several companies for all different devices and software systems.
-Invented a new approximation method, Final Value approximation method for IVP.
-Lots of my innovative contributions are publicly available.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Working as IT Infrastructure Engineer with many years of experience across international environments, providing service to many different companies. Mostly focused on implementation, research &amp;amp; development. Always willing to implement something new and prepared for solving any type of problem.&lt;/p&gt;
+&lt;p&gt;I specialize in server system management, software and hardware integration and maintanence, data analysis and scientific report writing. My experties come from hands on experience with electronics from hours of experimental lab work. Done maintanence for entire IT infrastructure of several companies for all different devices and software systems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;📧 &lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:wasiful2016@gmail.com&#34;&gt;wasiful2016@gmail.com&lt;/a&gt;&lt;br&gt;
-📱 &lt;strong&gt;Phone&lt;/strong&gt;: &lt;a href=&#34;tel:+420776895697&#34;&gt;+420776895697&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;layout-page&#34;&gt;title: &amp;ldquo;Contact&amp;rdquo;
+layout: &amp;ldquo;page&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;📧 &lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:wasiful2016@gmail.com&#34;&gt;wasiful2016@gmail.com&lt;/a&gt;&lt;br&gt;
+📱 &lt;strong&gt;Phone&lt;/strong&gt;: &lt;a href=&#34;tel:+420776895697&#34;&gt;+420776895697&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/wasiful-alam-22b237236&#34;&gt;linkedin.com/in/wasiful-alam-22b237236&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Feel free to reach out for collaboration, project inquiries, or professional consultation.&lt;/p&gt;</description>
     </item>
     <item>
@@ -31,14 +33,17 @@ Lots of my innovative contributions are publicly available.&lt;/p&gt;</descripti
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;p&gt;Here are some featured projects and research contributions:&lt;/p&gt;
+      <description>&lt;p&gt;Worked on system management, IT Infrastructure server improvement and maintanence projects with
+Omega , Ralph Lauren, Louis Vuitton, Mastercard, DOW Europe Gmbh, GLP and many others.&lt;/p&gt;
+&lt;p&gt;According to my educational background, worked on many projects can be found in my git hub.
+Here are some featured projects and research contributions and many more projects are ongoing:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/wasiful/py-libs-workshops/blob/main/a%20solution%20for%20the%20Initial%20value%20problem.html&#34;&gt;Final Value approximation method&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://final-value-approximation.blogspot.com/&#34;&gt;Final Value approximation method&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/wasiful/experimental-data-analysis&#34;&gt;Experimental Data analysis modle for mesurement of material properties&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/wasiful/py-ml-training/blob/main/notebooks&#34;&gt;Data Analysis and Visualization&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/wasiful/py-ml-training/blob/main/notebooks&#34;&gt;Machine learning and simulation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/publication/384292283_Detecting_Deformation_and_Motion_of_Reflective_Surfaces_for_Nuclear_Core_Image_Analysis&#34;&gt;Detection of deformation in Nuclear core&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1YzcdUgf-jGS8tMnUBL3S6JWKLSD5aC7r/view?usp=sharing&#34;&gt;Photoelectron measurement using photomultiplier&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/wasiful/webdevelopment/tree/main/implementing-vuejs/components&#34;&gt;Vue.js Web Components&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/wasiful/webdevelopment/tree/main/implementing-vuejs/components&#34;&gt;Web Components&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
@@ -48,8 +53,10 @@ Lots of my innovative contributions are publicly available.&lt;/p&gt;</descripti
       <guid>http://localhost:1313/publications/</guid>
       <description>&lt;h3 id=&#34;published-research&#34;&gt;Published Research&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://a.co/d/4yoUCNV&#34;&gt;&amp;ldquo;The History of Electromagnetism&amp;rdquo;&lt;/a&gt; – Available on Amazon and Google Books&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1JzeLH_eMh-O7zzM6JQ5QaqcnVFeK8hgK/view?usp=sharing&#34;&gt;Runaway electron detection using scintillation method&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a.co/d/4yoUCNV&#34;&gt;The History of Electromagnetism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a.co/d/51ol0Ij&#34;&gt;Fundamental Structures of the Universe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/publication/384292283_Detecting_Deformation_and_Motion_of_Reflective_Surfaces_for_Nuclear_Core_Image_Analysis&#34;&gt;Deformation and Motion of Reflective Surfaces&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1JzeLH_eMh-O7zzM6JQ5QaqcnVFeK8hgK/view?usp=sharing&#34;&gt;Runaway Electron Detection Using Scintillation Method&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;For a full list of works and experiments, refer to the Projects section.&lt;/p&gt;&lt;/blockquote&gt;</description>

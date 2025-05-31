@@ -1,11 +1,12 @@
 ---
 title: "About Me"
 ---
-Working as IT Field Engineer with many years of experience across international environments, providing service to many different companies. Personally interested in IT, Data analysis, physics simulation. Mostly focused on research \& development. Always willing to implement something new and prepared for solving any type of problem.
+Working as IT Infrastructure Engineer with many years of experience across international environments, providing service to many different companies. Mostly focused on implementation, research \& development. Always willing to implement something new and prepared for solving any type of problem.
 
 I specialize in server system management, software and hardware integration and maintanence, data analysis and scientific report writing. My experties come from hands on experience with electronics from hours of experimental lab work. Done maintanence for entire IT infrastructure of several companies for all different devices and software systems.
+
 Invented a new approximation method, Final Value approximation method for IVP. 
-Lots of my innovative contributions are publicly available.
+Lots of my innovative contributions are publicly available. Links in the Publications page
 
 ### Interests
 - IT Infrastructure & System Integration
@@ -13,8 +14,19 @@ Lots of my innovative contributions are publicly available.
 - Simulation in Physics
 - Machine Learning and Artificial intelligence
 
+### Education
+- Diploma in Nuclear Science and Particle Physics, CTU FJFI
+- Diploma in Machine Learning For Data Science, TalTECH
+- Diploma in Plasma and Fusion Reaction, EPFL
+- Diploma in IT, CTU FIT
+- Diploma in Web Development, BITM
+- English Language Proficiency certification C1, British Council and Duolingo
+
 ### Hobby
 Writing science and technology books and contributing to open-source and research-based projects.
 
-> Future goal: Implement machine learning over physics simulation.
+
+<!-- > Future goal: Implement machine learning over physics simulation. -->
+
+
 
