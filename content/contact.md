@@ -2,10 +2,6 @@
 title: "Contact"
 layout: "page"
 ---
----
-title: "Contact"
-layout: "page"
----
 
 📧 **Email**: [wasiful2016@gmail.com](mailto:wasiful2016@gmail.com)  
 📱 **Phone**: [+420776895697](tel:+420776895697)  

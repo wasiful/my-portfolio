@@ -16,7 +16,8 @@ theme = 'PaperMod'
 
   email = "wasiful2016@gmail.com"
   phone = "+420776895697"
-
+  favicon = "/favicon.png"
+  
   [[params.socialIcons]]
     name = "email"
     url = "mailto:wasiful2016@gmail.com"
@@ -76,3 +77,5 @@ theme = 'PaperMod'
     name = "Contact"
     url = "/contact/"
     weight = 4
+[params.assets]
+favicon = "/favicon.png"
