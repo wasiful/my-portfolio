@@ -3,13 +3,14 @@ title: "About Me"
 ---
 Working as IT Infrastructure Engineer with many years of experience across international environments, providing service to many different companies. Mostly focused on implementation, research \& development. Always willing to implement something new and prepared for solving any type of problem.
 
-I specialize in server system management, software and hardware integration and maintanence, data analysis and scientific report writing. My experties come from hands on experience with electronics from hours of experimental lab work. Done maintanence for entire IT infrastructure of several companies for all different devices and software systems.
+I specialize in server system management, software and hardware integration and maintanence, data analysis and scientific report writing. My experties come from hands on experience with electronics from hours of experimental lab work. Testing equipments and providing analysis for quality controll. Done maintanence for entire IT infrastructure of several companies for all different devices and software systems.
 
 Regarding my educational background, invented a new approximation method, Final Value approximation method for IVP. 
 Lots of my innovative contributions are publicly available. Links in the Publications page
 
 ### Interests
 - IT Infrastructure & System Integration
+- QA Test Operating
 - Data Visualization and Scientific Report Writing
 - Simulation in Physics
 - Machine Learning and Artificial intelligence

@@ -4,7 +4,7 @@
     <title>Wasif - Portfolio</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Wasif - Portfolio</description>
-    <generator>Hugo -- 0.147.3</generator>
+    <generator>Hugo -- 0.154.0</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Working as IT Infrastructure Engineer with many years of experience across international environments, providing service to many different companies. Mostly focused on implementation, research &amp;amp; development. Always willing to implement something new and prepared for solving any type of problem.&lt;/p&gt;
-&lt;p&gt;I specialize in server system management, software and hardware integration and maintanence, data analysis and scientific report writing. My experties come from hands on experience with electronics from hours of experimental lab work. Done maintanence for entire IT infrastructure of several companies for all different devices and software systems.&lt;/p&gt;</description>
+&lt;p&gt;I specialize in server system management, software and hardware integration and maintanence, data analysis and scientific report writing. My experties come from hands on experience with electronics from hours of experimental lab work. Testing equipments and providing analysis for quality controll. Done maintanence for entire IT infrastructure of several companies for all different devices and software systems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
@@ -52,13 +52,15 @@ Here are some featured projects and research contributions, many more projects a
       <guid>http://localhost:1313/publications/</guid>
       <description>&lt;h3 id=&#34;published-research&#34;&gt;Published Research&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.eu/d/6mABT4e&#34;&gt;The Golden Distribution&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a.co/d/4yoUCNV&#34;&gt;The History of Electromagnetism&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://a.co/d/51ol0Ij&#34;&gt;Fundamental Structures of the Universe&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/publication/384292283_Detecting_Deformation_and_Motion_of_Reflective_Surfaces_for_Nuclear_Core_Image_Analysis&#34;&gt;Deformation and Motion of Reflective Surfaces&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1JzeLH_eMh-O7zzM6JQ5QaqcnVFeK8hgK/view?usp=sharing&#34;&gt;Runaway Electron Detection Using Scintillation Method&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;For a full list of works and experiments, refer to the Projects section.&lt;/p&gt;&lt;/blockquote&gt;</description>
+&lt;p&gt;For a full list of works and experiments, refer to the Projects section.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
   </channel>
 </rss>

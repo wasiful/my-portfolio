@@ -1,4 +1,22 @@
-"public/" 
-"resources/" 
-"node_modules/" 
-".hugo_build.lock" 
+
+# Hugo build output
+public/
+resources/_gen/
+
+# Node (if used later)
+node_modules/
+
+# Hugo lock file
+.hugo_build.lock
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+
+
+
+public/
+resources/
+node_modules/
+.hugo_build.lock

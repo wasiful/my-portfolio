@@ -6,7 +6,7 @@ theme = 'PaperMod'
 [params]
   author = "Wasif"
   description = "Portfolio of Wasif – IT Field Engineer, Data Analyst, and Researcher"
-  keywords = ["Portfolio", "Data Analysis", "Research", "IT Engineer"]
+  keywords = ["Portfolio", "Data Analysis", "Research", "IT Engineer", "QA Test Operator"]
   ShowReadingTime = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
@@ -31,7 +31,7 @@ theme = 'PaperMod'
 [params.profileMode]
   enabled = true
   title = "Wasif"
-  subtitle = "IT Infrastructure Engineer • Scientific Data Analysis • Researcher in Physics"
+  subtitle = "IT Infrastructure Engineer • QA Test Operator • Scientific Data Analysis • Researcher in Physics"
   imageUrl = "profile.jpg"
   imageWidth = 120
   imageHeight = 120
