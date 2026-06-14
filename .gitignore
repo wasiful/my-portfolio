@@ -10,4 +10,4 @@ node_modules/
 
 # OS junk
 .DS_Store
-Thumbs.db
+Thumbs.dbgit_push_ignore.ps1
